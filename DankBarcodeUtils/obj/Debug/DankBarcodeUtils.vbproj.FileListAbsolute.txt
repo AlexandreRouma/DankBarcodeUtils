@@ -1,0 +1,8 @@
+C:\Users\PC\Documents\Visual Studio 2012\Projects\DankBarcodeUtils-TESTER\DankBarcodeUtils\bin\Debug\DankBarcodeUtils.dll
+C:\Users\PC\Documents\Visual Studio 2012\Projects\DankBarcodeUtils-TESTER\DankBarcodeUtils\bin\Debug\DankBarcodeUtils.pdb
+C:\Users\PC\Documents\Visual Studio 2012\Projects\DankBarcodeUtils-TESTER\DankBarcodeUtils\bin\Debug\DankBarcodeUtils.xml
+C:\Users\PC\Documents\Visual Studio 2012\Projects\DankBarcodeUtils-TESTER\DankBarcodeUtils\obj\Debug\DankBarcodeUtils.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2012\Projects\DankBarcodeUtils-TESTER\DankBarcodeUtils\obj\Debug\DankBarcodeUtils.vbproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2012\Projects\DankBarcodeUtils-TESTER\DankBarcodeUtils\obj\Debug\DankBarcodeUtils.dll
+C:\Users\PC\Documents\Visual Studio 2012\Projects\DankBarcodeUtils-TESTER\DankBarcodeUtils\obj\Debug\DankBarcodeUtils.xml
+C:\Users\PC\Documents\Visual Studio 2012\Projects\DankBarcodeUtils-TESTER\DankBarcodeUtils\obj\Debug\DankBarcodeUtils.pdb

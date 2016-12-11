@@ -1,0 +1,14 @@
+C:\Users\PC\Documents\Visual Studio 2012\Projects\DankBarcodeUtils-TESTER\TESTER\bin\Debug\TESTER.exe.config
+C:\Users\PC\Documents\Visual Studio 2012\Projects\DankBarcodeUtils-TESTER\TESTER\bin\Debug\TESTER.exe
+C:\Users\PC\Documents\Visual Studio 2012\Projects\DankBarcodeUtils-TESTER\TESTER\bin\Debug\TESTER.pdb
+C:\Users\PC\Documents\Visual Studio 2012\Projects\DankBarcodeUtils-TESTER\TESTER\bin\Debug\TESTER.xml
+C:\Users\PC\Documents\Visual Studio 2012\Projects\DankBarcodeUtils-TESTER\TESTER\obj\Debug\TESTER.Form1.resources
+C:\Users\PC\Documents\Visual Studio 2012\Projects\DankBarcodeUtils-TESTER\TESTER\obj\Debug\TESTER.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2012\Projects\DankBarcodeUtils-TESTER\TESTER\obj\Debug\TESTER.vbproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2012\Projects\DankBarcodeUtils-TESTER\TESTER\obj\Debug\TESTER.exe
+C:\Users\PC\Documents\Visual Studio 2012\Projects\DankBarcodeUtils-TESTER\TESTER\obj\Debug\TESTER.xml
+C:\Users\PC\Documents\Visual Studio 2012\Projects\DankBarcodeUtils-TESTER\TESTER\obj\Debug\TESTER.pdb
+C:\Users\PC\Documents\Visual Studio 2012\Projects\DankBarcodeUtils-TESTER\TESTER\bin\Debug\DankBarcodeUtils.pdb
+C:\Users\PC\Documents\Visual Studio 2012\Projects\DankBarcodeUtils-TESTER\TESTER\bin\Debug\DankBarcodeUtils.xml
+C:\Users\PC\Documents\Visual Studio 2012\Projects\DankBarcodeUtils-TESTER\TESTER\obj\Debug\TESTER.vbprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2012\Projects\DankBarcodeUtils-TESTER\TESTER\bin\Debug\DankBarcodeUtils.dll
